@@ -16,7 +16,7 @@
   - Responsive
   - jQuery
 - Backend Theme development
-  - Guten Block
+  - [Guten Block](07_Backend_Theme_Development/07_a_guten_block/README.md)
   - Theme Options
   - Default Files
   - Template Files
